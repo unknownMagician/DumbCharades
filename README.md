@@ -6,7 +6,7 @@ One team provide the word, while other team need to guess the word by drawing or
 I added `audio` and `text` chat in this application for better interaction with your friends.
 
 <p align="center">
-<a href="https://Satyam-2001.github.io/Dumb-Charades">Play Live Game</a>
+<a href="https://dumbcharades-1.onrender.com">Play Live Game</a>
 </p>
 
 ---
