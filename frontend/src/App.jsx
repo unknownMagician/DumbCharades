@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import Interface from "./interface/Interface"
 import Login from "./components/Login/Login"
-import {Router, Route, Routes } from "react-router-dom";
+import {HashRouter as Router, Route, Routes } from "react-router-dom";
 
 const App = () => {
 
